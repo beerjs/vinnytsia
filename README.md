@@ -1,5 +1,4 @@
 BeerJS: Vinnytsia, Ukraine
-
 ============
 
 BeerJS: Vinnytsia is for devs to get together, throw a few back, and learn collectively about JavaScript. We value good beer and good code and encourage the sharing of both.
