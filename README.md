@@ -38,6 +38,13 @@ Community is the reason why we do what we do.  We highly value growing together 
 [BeerJS Telgeram](https://t.me/beerjs_vinnytsia)<br />
 
 
+Place and time
+--------------
+
+Place                                                      | Date
+-----------------------------------------------------------|------------------
+[De Lucio](https://goo.gl/maps/KohKhDa5NRG2)               | 18 August 2017
+
 Organizers
 ----------
 
