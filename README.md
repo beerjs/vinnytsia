@@ -45,6 +45,7 @@ Place                                                      | Date
 -----------------------------------------------------------|------------------
 [De Lucio](https://goo.gl/maps/KohKhDa5NRG2)               | 18 August 2017
 [Biblioteka](https://goo.gl/maps/2BYxQWM1FUq)              | 10 November 2017
+[Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 14 December 2017
 
 Organizers
 ----------
