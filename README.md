@@ -53,3 +53,4 @@ Organizers
 ----------
 
 * Artem Denysov ([Github](https://github.com/denar90))
+* Vitaliy Ribachenko ([Github](https://github.com/VitaliyR))
