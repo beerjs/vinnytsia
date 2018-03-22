@@ -47,6 +47,7 @@ Place                                                      | Date
 [Biblioteka](https://goo.gl/maps/2BYxQWM1FUq)              | 10 November 2017
 [Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 14 December 2017
 [Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 15 February 2018
+[Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 22 March 2018
 
 Organizers
 ----------
