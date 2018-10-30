@@ -51,7 +51,7 @@ Place                                                      | Date
 [Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 21 June 2018
 [Grafskiy Pereulok](https://goo.gl/maps/XFVUVAAUPF92)      | 17 August 2018
 [Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 20 September 2018
-[Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 25 Octosber 2018
+[Grill Pub](https://goo.gl/maps/QTrLRurNz7M2)              | 25 October 2018
 
 Organizers
 ----------
